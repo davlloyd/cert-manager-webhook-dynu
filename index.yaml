@@ -3,6 +3,15 @@ entries:
   dynu-webhook:
   - apiVersion: v1
     appVersion: "1.1"
+    created: "2023-01-18T07:21:49.050719662Z"
+    description: A Helm chart for dynu webhook for cert-manager
+    digest: 0de8eef569e99554dbfd40cdc2669105f5ffe1a23d91b52a2ea8ab3258b1e570
+    name: dynu-webhook
+    urls:
+    - https://github.com/davlloyd/cert-manager-webhook-dynu/releases/download/dynu-webhook-0.1.9/dynu-webhook-0.1.9.tgz
+    version: 0.1.9
+  - apiVersion: v1
+    appVersion: "1.1"
     created: "2023-01-11T19:30:12.827272912Z"
     description: A Helm chart for dynu webhook for cert-manager
     digest: 945bb9a1c211b04a96d399cf162f1d9c6202c56352e43ad67fe89fdf8c5a8655
@@ -55,4 +64,4 @@ entries:
     urls:
     - https://github.com/Dopingus/cert-manager-webhook-dynu/releases/download/dynu-webhook-0.1.1/dynu-webhook-0.1.1.tgz
     version: 0.1.1
-generated: "2023-01-11T19:30:12.827289512Z"
+generated: "2023-01-18T07:21:49.050743062Z"
